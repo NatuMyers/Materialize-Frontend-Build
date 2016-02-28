@@ -4,7 +4,11 @@ SETING UP/ COMPILING SASS FILES
 ##### Run an "npm install" to get the latest dependencies!!!
 
 
-##### TO COMPILE A SASS FILE AND QUICKLY CHANGE COLOR SCHEME, gem install sass; sudo gem install sass; sass --watch materialize.scss:materialize.css IN THE DIRECTORY OF the .scss file. Drag the new .css to replace the old one, and voila quick color scheming
+##### TO COMPILE A SASS FILE AND QUICKLY CHANGE COLOR SCHEME, 
+
+```javascript 
+gem install sass; sudo gem install sass; sass --watch materialize.scss:materialize.css 
+```IN THE DIRECTORY OF the .scss file. Drag the new .css to replace the old one, and voila quick color scheming
 
 
 angular-materialize
