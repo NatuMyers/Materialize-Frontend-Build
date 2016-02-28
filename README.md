@@ -1,4 +1,4 @@
-SETING UP/ COMPILING SASS FILES
+SETTING UP/ COMPILING SASS FILES
 ===================
 
 ##### Run an "npm install" to get the latest dependencies!!!
